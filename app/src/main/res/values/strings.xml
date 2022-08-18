@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="jay_intro">My name is Jay. I trade Cryptocurrencies and am looking forward to learning Kotlin.</string>
+    <string name="button_text">click to get BTC</string>
+</resources>
